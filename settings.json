@@ -1,7 +1,7 @@
 {
-  "name": "Philows1",
+  "name": "PhilowsBotMC",
   "bot-account": {
-    "username": "Philows1",
+    "username": "PhilowsBotMC",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "PhilowsIsHere"
     },
     "anti-afk": {
       "enabled": true,
@@ -28,9 +28,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1000,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a Bot",
+        "•_•",
         ":)",
         ":("
       ]
@@ -81,8 +81,8 @@
     "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
-      "disconnect": true,
-      "chat": false
+      "disconnect": false,
+      "chat": true
     }
   },
   "chat": {
