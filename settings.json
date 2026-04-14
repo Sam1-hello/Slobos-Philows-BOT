@@ -1,7 +1,7 @@
 {
-  "name": "PhilowsBotMC",
+  "name": "PhilowsBot1",
   "bot-account": {
-    "username": "PhilowsBotMC",
+    "username": "PhilowsBot1",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "PhilowsIsHere"
+      "password": "PhilowsIsHere1"
     },
     "anti-afk": {
       "enabled": true,
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 20,
       "messages": [
-        "•_•",
-        ":)",
-        ":("
+        "/lagfixer free",
+        "/lagfixer free",
+        "/lagfixer free"
       ]
     },
     "chat-log": true,
