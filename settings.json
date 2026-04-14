@@ -1,7 +1,7 @@
 {
-  "name": "PhilowsBotMC2",
+  "name": "PhilowsBotMC",
   "bot-account": {
-    "username": "PhilowsBotMC2",
+    "username": "PhilowsBotMC",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "PhilowsIsHere2"
+      "password": "PhilowsIsHere"
     },
     "anti-afk": {
       "enabled": true,
