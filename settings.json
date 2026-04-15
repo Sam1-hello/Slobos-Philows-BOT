@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 300,
       "messages": [
-        "/lagfixer free",
-        "/lagfixer free",
-        "/lagfixer free"
+        "'_'",
+        "$",
+        "•_•"
       ]
     },
     "chat-log": true,
