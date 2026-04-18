@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 50,
       "messages": [
         "/lagfixer free",
         "/lagfixer free",
