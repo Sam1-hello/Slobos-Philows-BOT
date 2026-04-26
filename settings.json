@@ -1,14 +1,14 @@
 {
-  "name": "PhilowsBotMC",
+  "name": "Philow",
   "bot-account": {
-    "username": "PhilowsBotMC",
+    "username": "Philows",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "PhilowsSMP.aternos.me",
     "port": 55216,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "PhilowsIsHere"
+      "password": "Slobos"
     },
     "anti-afk": {
       "enabled": true,
@@ -65,7 +65,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": true,
-    "chat": false,
+    "chat": true,
     "console-commands": true
   },
   "combat": {
