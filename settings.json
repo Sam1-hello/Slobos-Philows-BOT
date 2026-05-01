@@ -1,13 +1,13 @@
 {
-  "name": "Philows179",
+  "name": "PhilowsBotMC",
   "bot-account": {
-    "username": "Philows179",
+    "username": "PhilowsBotMC",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "philows.playwithbao.com",
-    "port": 62349,
+    "port": 40417, 
     "version": "1.21.11"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "PhilowsIsHere1"
+      "password": "PhilowsIsHere"
     },
     "anti-afk": {
       "enabled": true,
