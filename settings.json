@@ -8,7 +8,7 @@
   "server": {
     "ip": "philows.playwithbao.com",
     "port": 40417, 
-    "version": "1.21.11"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
