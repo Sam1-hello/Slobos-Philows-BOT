@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "philows.playwithbao.com",
+    "ip": "philowssmp.playwithbao.com",
     "port": 54308, 
     "version": "1.21.11"
   },
