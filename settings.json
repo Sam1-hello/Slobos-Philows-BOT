@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 300,
       "messages": [
-        "/lagfixer free",
-        "/lagfixer free",
-        "/lagfixer free"
+        "Shiny!",
+        "Hi",
+        "•_•"
       ]
     },
     "chat-log": true,
